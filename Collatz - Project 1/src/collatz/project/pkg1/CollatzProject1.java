@@ -27,10 +27,10 @@ public class CollatzProject1 {
         int i=0;
         int a;
         a = x.nextInt();
-        if(a!=1){
+        if(a>1){
             
     
-        while(a!=1)
+        while(a>1)
        {
           if(a%2==0){
               a = a/2;
