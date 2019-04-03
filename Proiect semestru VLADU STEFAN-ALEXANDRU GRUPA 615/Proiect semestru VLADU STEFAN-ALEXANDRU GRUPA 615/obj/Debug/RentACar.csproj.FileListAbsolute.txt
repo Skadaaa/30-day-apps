@@ -1,0 +1,12 @@
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\bin\Debug\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615.exe.config
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\bin\Debug\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615.exe
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\bin\Debug\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615.pdb
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\RentACar.csprojAssemblyReference.cache
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\Proiect_semestru_VLADU_STEFAN_ALEXANDRU_GRUPA_615.Login.resources
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\Proiect_semestru_VLADU_STEFAN_ALEXANDRU_GRUPA_615.MainProgram.resources
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\Proiect_semestru_VLADU_STEFAN_ALEXANDRU_GRUPA_615.Properties.Resources.resources
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\Proiect_semestru_VLADU_STEFAN_ALEXANDRU_GRUPA_615.RegisterForm.resources
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\RentACar.csproj.GenerateResource.cache
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615.exe
+C:\Users\Skadaa\source\repos\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615\obj\Debug\Proiect semestru VLADU STEFAN-ALEXANDRU GRUPA 615.pdb
